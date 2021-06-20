@@ -6,7 +6,6 @@ import {
   StyledFormArea,
   StyledButton,
   ButtonText,
-  Colors,
   Line,
   WelcomeContainer,
   WelcomeImage,
